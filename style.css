@@ -43,5 +43,6 @@ label,
     border: 2px solid #7f5af0;
     border-radius: 8px;
     outline: none;
+    /* Changer la couleur du curseur d'entrée (caret) */
     caret-color: #7f5af0;
 }
