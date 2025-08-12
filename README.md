@@ -17,3 +17,5 @@ Lien vers le projet : https://aperbet56.github.io/fonctionnalite_couleur_curseur
 - Utilisation d'un normaliseur : le fichier normalize.css
 - Commentaires HTML
 - Commentaires CSS
+- Desktop first
+- Page web responsive
